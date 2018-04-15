@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block body %}
+    <form class="card" id="form">
+        <div class="is-hidden" id="content-name">
+            <label>
+                <h1>What is your name?</h1>
+                <input class="form-option" id="input-name" name="name" required type="text">
+                <button class="form-option is-selected" type="submit">Submit</button>
+            </label>
+        </div>
+        <div id="content-question"></div>
+    </form>
+    <div class="footer">
+        <a href="#" id="link-logout"></a>
+    </div>
+{% endblock %}

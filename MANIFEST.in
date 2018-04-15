@@ -1,0 +1,2 @@
+graft trivia/templates
+graft trivia/static
