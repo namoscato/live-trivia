@@ -5,7 +5,7 @@ Interactive live trivia framework used to teach Python lists.
 ![Demo](demo.gif)
 
 Inspired by [HQ](https://hqtrivia.com) and [TEALS](https://www.tealsk12.org/) 2nd Semester Introduction to Computer
-Science [Lab 2.05](https://tealsk12.gitbooks.io/2nd-semester-introduction-to-computer-science/content/units/2_unit/05_lesson/lab.html).
+Science [Lab 2.05](https://tealsk12.gitbook.io/intro-cs-2/unit2_md/lesson-4/lab).
 Built with [Flask](http://flask.pocoo.org/docs/0.12/) and [PostgreSQL](https://www.postgresql.org/).
 
 ## Instructions
@@ -31,7 +31,7 @@ The method should return a list of names that correctly answered the question.
 
 ## Starter Code
 
-Starter Python client code can be accessed [via trinket](https://trinket.io/python3/0ef2599c81).
+Starter Python client code can be accessed via [trinket](https://trinket.io/python3/0ef2599c81) or [Repl.it](https://repl.it/@namoscato/Interactive-Trivia-Starter).
 
 ```python
 import trivia
